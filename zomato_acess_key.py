@@ -35,6 +35,7 @@ else:
 			Some Network issue
 				or
 		I think there is no zomato in """,place)
+	raise("may be there is no zomato in the place")
 
 
 
